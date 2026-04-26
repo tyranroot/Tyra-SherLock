@@ -54,6 +54,10 @@ cp 'Tyra SherLock.apk' /sdcard/Tyra-SherLock
 ```
 Direct Download for click Tyra SherLock.apk 
 ```
+## Check Your File Manager
+![Alt Text](https://github.com/tyranroot/Tyra-SherLock/blob/main/pictures/photo_2026-04-26_21-55-38.jpg?raw=true)
+---
+---
 ## How To look like this Apk
 ![Alt Text](https://github.com/tyranroot/Tyra-SherLock/blob/main/pictures/photo_2026-04-26_21-15-27.jpg?raw=true)
 ---
