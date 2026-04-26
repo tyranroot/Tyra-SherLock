@@ -1,6 +1,6 @@
 ---
 ---
-![Alt Text](https://github.com/tyranroot/Tyra-SherLock/blob/main/pictures/ChatGPT%20Image%20Apr%2026,%202026,%2009_12_19%20PM.png?raw=true)
+![Alt Text](https://github.com/tyranroot/Tyra-SherLock/blob/main/Logo.png?raw=true)
 ---
 ---
 
